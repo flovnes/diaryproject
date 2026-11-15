@@ -2,9 +2,9 @@
 
 | Учасник | ОС | .NET SDK | IDE |
 |---|---|---|---|
-| Волощук В.М. | Windows | 8.0.x | Visual Studio / Rider |
-| Гергіль А.В. | _заповнити_ | 8.0.x | _заповнити_ |
-| Залозна Є.Р. | MacOS | 8.0.x | Rider |
+| Волощук В.М. | Linux | 8.0.42 | Zed |
+| Гергіль А.В. | Windows | 8.0.42 | Visual Studio |
+| Залозна Є.Р. | macOS 27.0.1 | 8.0.42 | Rider |
 
 Інструменти: C# 12, .NET 8, xUnit 2.8.0, Microsoft.NET.Test.Sdk 17.9.0.
 Mock: Moq; БД для тестів: SQLite у пам'яті (Microsoft.Data.Sqlite); покриття: coverlet + ReportGenerator.
